@@ -3,7 +3,7 @@ Introdução a JavaScript com um projeto simples de calculadora usando o prompt/
 
 ## Plano de aulas
 
-* Aula 1 - O que danado é JavaScript? script.js ✅
+* Aula 1 - O que é JavaScript? script.js ✅
 
 * Aula 2 - Entendendo variáveis e seus valores var, let & const ✅
 
