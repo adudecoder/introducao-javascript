@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="load()">
+    
+    <button type="button" onclick="botao()">Clique aqui</button>
+    <h3 id="title3"></h3>
+
+    <!-- This para chamar as funções em elementos diferentes passando um parametro nas funções e sem a necessidade de passar um id -->
+    <button type="button" id="btn-youtube" onclick="redirecionar()" onmouseover="trocar(this)" onmouseout="retrocar(this)">Youtube</button>
+    <br><br>
+    <button type="button" id="btn-youtube" onclick="redirecionar()" onmouseover="trocar(this)" onmouseout="retrocar(this)">Youtube</button>
+
+    <!-- onChange para coletar o valor do elemento -->
+    <select onchange="funcaoChange(this)">
+        <option value="1">Valor 1</option>
+        <option value="2">Valor 2</option>
+        <option value="3">Valor 3</option>
+    </select>
+
+    <script src="script.js"></script>
+</body>
+</html>

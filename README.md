@@ -1,16 +1,9 @@
-# Introdução a JavaScript
-Introdução a JavaScript com um projeto simples de calculadora usando o prompt/alert
+# Introdução ao JavaScript
+Uma introdução do básico ao avançado do **JavaScript** com projetos práticos
 
-## Plano de aulas
+## Projeção das aulas
+1. Sintaxe básica em JavaScript
+* De forma geral e didática explicar o que é **JavaScript**, para que serve e como utilizá-lo em projetos.
 
-* Aula 1 - O que é JavaScript? script.js ✅
-
-* Aula 2 - Entendendo variáveis e seus valores var, let & const ✅
-
-* Aula 3 - Vetores e objetos [array] {object} ✅
-
-* Aula 4 - Estruturas condicionais if && else... ✅
-
-* Aula 5 – Funções e suas particularidades function(){} ✅
-
-* Aula 6 – Aprofundando em funções () => {} ✅
+2. Programação para internet com **JavaScript**
+* JavaScript é uma das mais importantes linguagens **Front-End**, e nessa aula vc entenderá o pq disso e como trabalhar com ela.
