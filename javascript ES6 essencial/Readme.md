@@ -47,3 +47,12 @@ Lista de alunos:
 1. Object - Abstração de algo real.
 2. Function - Call Label, executa ações.
 3. Array - Também é um **Objetc** mas tem uma relação com os itens dele.
+
+## Operadores
+* temos 6 tipos de **Operadores**
+1. Aritméticos
+2. Atribuição
+3. Comparação
+4. Condicional
+5. Lógicos
+6. Spread Operator
