@@ -1,7 +1,7 @@
 # Introdução ao JavaScript
 Uma introdução do básico ao avançado do **JavaScript** com projetos práticos
 
-## Projeção das aulas
+## Planos de aulas
 1. Sintaxe básica em JavaScript
 * De forma geral e didática explicar o que é **JavaScript**, para que serve e como utilizá-lo em projetos.
 
