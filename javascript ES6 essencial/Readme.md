@@ -56,3 +56,6 @@ Lista de alunos:
 4. Condicional
 5. Lógicos
 6. Spread Operator
+
+## estruturas Condicionais e Repetição
+1. if, else e else if
